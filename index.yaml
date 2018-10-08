@@ -1,0 +1,26 @@
+apiVersion: v1
+entries:
+  fluent-bit:
+  - appVersion: 0.14.4
+    created: 2018-10-08T14:54:12.371539475+02:00
+    description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
+    digest: e29d94dec9b01084683468775886fb434b052a02b44476281150257ae1bc78ab
+    home: http://fluentbit.io
+    icon: http://fluentbit.io/assets/img/logo1-default.png
+    keywords:
+    - logging
+    - monitoring
+    - fluent
+    - fluentd
+    maintainers:
+    - email: Kevin.Fox@pnnl.gov
+      name: kfox1111
+    - email: eduardo@treasure-data.com
+      name: edsiper
+    name: fluent-bit
+    sources:
+    - http://fluentbit.io
+    urls:
+    - fluent-bit-0.12.0.tgz
+    version: 0.12.0
+generated: 2018-10-08T14:54:12.370729607+02:00
